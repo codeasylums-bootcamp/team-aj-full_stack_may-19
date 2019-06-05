@@ -14,6 +14,6 @@ Also authenticate yourself to play and keep track of your overall profit/loss!
 
  ### Aditya Raj Singh - (@adityarajsingh)
  ### Jasbinder Singh Loomba - (@prince-loomba)
-
+## References
 #### Stack Overflow
 #### socket.io
